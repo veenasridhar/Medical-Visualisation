@@ -1,0 +1,840 @@
+Variablenname;Label;Ausprägung-Wert;Ausprägung-Label
+d_an_cv_1;Herzinfarkt;1;'Ja'
+d_an_cv_1;Herzinfarkt;2;'Nein'
+d_an_cv_1;Herzinfarkt;9999;'Weiß nicht' (Missing)
+d_an_cv_1;Herzinfarkt;8888;'Keine Angabe' (Missing)
+d_an_cv_2;Verengung der Herzkranzgefäße bzw. Angina pectoris;1;'Ja'
+d_an_cv_2;Verengung der Herzkranzgefäße bzw. Angina pectoris;2;'Nein'
+d_an_cv_2;Verengung der Herzkranzgefäße bzw. Angina pectoris;9999;'Weiß nicht' (Missing)
+d_an_cv_2;Verengung der Herzkranzgefäße bzw. Angina pectoris;8888;'Keine Angabe' (Missing)
+d_an_cv_3;Herzschwäche bzw. Herzinsuffizienz;1;'Ja'
+d_an_cv_3;Herzschwäche bzw. Herzinsuffizienz;2;'Nein'
+d_an_cv_3;Herzschwäche bzw. Herzinsuffizienz;9999;'Weiß nicht' (Missing)
+d_an_cv_3;Herzschwäche bzw. Herzinsuffizienz;8888;'Keine Angabe' (Missing)
+d_an_cv_4;Herzrhythmusstörungen;1;'Ja'
+d_an_cv_4;Herzrhythmusstörungen;2;'Nein'
+d_an_cv_4;Herzrhythmusstörungen;9999;'Weiß nicht' (Missing)
+d_an_cv_4;Herzrhythmusstörungen;8888;'Keine Angabe' (Missing)
+d_an_cv_5;Schaufensterkrankheit bzw. Durchblutungsstörungen in den Beinen, auch Claudicatio intermittens oder arterielle Verschlusskrankheit genannt;1;'Ja'
+d_an_cv_5;Schaufensterkrankheit bzw. Durchblutungsstörungen in den Beinen, auch Claudicatio intermittens oder arterielle Verschlusskrankheit genannt;2;'Nein'
+d_an_cv_5;Schaufensterkrankheit bzw. Durchblutungsstörungen in den Beinen, auch Claudicatio intermittens oder arterielle Verschlusskrankheit genannt;9999;'Weiß nicht' (Missing)
+d_an_cv_5;Schaufensterkrankheit bzw. Durchblutungsstörungen in den Beinen, auch Claudicatio intermittens oder arterielle Verschlusskrankheit genannt;8888;'Keine Angabe' (Missing)
+d_an_cv_6;Bluthochdruck;1;'Ja'
+d_an_cv_6;Bluthochdruck;2;'Nein'
+d_an_cv_6;Bluthochdruck;9999;'Weiß nicht' (Missing)
+d_an_cv_6;Bluthochdruck;8888;'Keine Angabe' (Missing)
+d_an_met_1;Zuckerkrankheit bzw. Diabetes mellitus;1;'Ja'
+d_an_met_1;Zuckerkrankheit bzw. Diabetes mellitus;2;'Nein'
+d_an_met_1;Zuckerkrankheit bzw. Diabetes mellitus;9999;'Weiß nicht' (Missing)
+d_an_met_1;Zuckerkrankheit bzw. Diabetes mellitus;8888;'Keine Angabe' (Missing)
+d_an_met_2;Erhöhte Blutfette bzw. Cholesterin oder Triglyzeride;1;'Ja'
+d_an_met_2;Erhöhte Blutfette bzw. Cholesterin oder Triglyzeride;2;'Nein'
+d_an_met_2;Erhöhte Blutfette bzw. Cholesterin oder Triglyzeride;9999;'Weiß nicht' (Missing)
+d_an_met_2;Erhöhte Blutfette bzw. Cholesterin oder Triglyzeride;8888;'Keine Angabe' (Missing)
+a_an_metdm1_age;Alter bei Erstdiagnose Diabetes mellitus;7777;'Berechnung nicht möglich wegen fehlender Daten' (Missing)
+a_an_metdm1_age;Alter bei Erstdiagnose Diabetes mellitus;8886;'Unplausible Angabe, daher im Rahmen der QS gelöscht' (Missing)
+a_an_metdm1_age;Alter bei Erstdiagnose Diabetes mellitus;7776;'Berechnung nicht möglich wegen unplausibler Werte' (Missing)
+a_an_metdm1_age;Alter bei Erstdiagnose Diabetes mellitus;7775;'Erlaubt übersprungen' (Missing)
+a_an_metdm1_age;Alter bei Erstdiagnose Diabetes mellitus;8888;'Keine Angabe' (Missing)
+a_an_metdm1_age;Alter bei Erstdiagnose Diabetes mellitus;9999;'Weiß Nicht' (Missing)
+d_an_metdm2c_7;Amputationen von z.B. Zeh, Fuß, Unter- oder Oberschenkel;1;'Ja'
+d_an_metdm2c_7;Amputationen von z.B. Zeh, Fuß, Unter- oder Oberschenkel;2;'Nein'
+d_an_metdm2c_7;Amputationen von z.B. Zeh, Fuß, Unter- oder Oberschenkel;9999;'Weiß nicht' (Missing)
+d_an_metdm2c_7;Amputationen von z.B. Zeh, Fuß, Unter- oder Oberschenkel;8888;'Keine Angabe' (Missing)
+d_an_lungcopd1_a;Alter;;
+d_an_lungcopd2;Wurden Sie in den letzten 12 Monaten wegen einer Chronischen Bronchitis oder COPD ärztlich behandelt?;1;'Ja'
+d_an_lungcopd2;Wurden Sie in den letzten 12 Monaten wegen einer Chronischen Bronchitis oder COPD ärztlich behandelt?;2;'Nein'
+d_an_lungcopd2;Wurden Sie in den letzten 12 Monaten wegen einer Chronischen Bronchitis oder COPD ärztlich behandelt?;9999;'Weiß nicht' (Missing)
+d_an_lungcopd2;Wurden Sie in den letzten 12 Monaten wegen einer Chronischen Bronchitis oder COPD ärztlich behandelt?;8888;'Keine Angabe' (Missing)
+d_an_lungasth2;Wurden Sie in den letzten 12 Monaten wegen Asthma bronchiale ärztlich behandelt?;1;'Ja'
+d_an_lungasth2;Wurden Sie in den letzten 12 Monaten wegen Asthma bronchiale ärztlich behandelt?;2;'Nein'
+d_an_lungasth2;Wurden Sie in den letzten 12 Monaten wegen Asthma bronchiale ärztlich behandelt?;9999;'Weiß nicht' (Missing)
+d_an_lungasth2;Wurden Sie in den letzten 12 Monaten wegen Asthma bronchiale ärztlich behandelt?;8888;'Keine Angabe' (Missing)
+d_an_msback1;Hatten Sie in den letzten 12 Monaten 3 Monate oder länger fast täglich Rückenschmerzen und wenn ja, wie stark waren diese ausgeprägt?;1;'Nein, ich hatte keine andauernden Rückenschmerzen'
+d_an_msback1;Hatten Sie in den letzten 12 Monaten 3 Monate oder länger fast täglich Rückenschmerzen und wenn ja, wie stark waren diese ausgeprägt?;2;'Ja, gering'
+d_an_msback1;Hatten Sie in den letzten 12 Monaten 3 Monate oder länger fast täglich Rückenschmerzen und wenn ja, wie stark waren diese ausgeprägt?;3;'Ja, mäßig'
+d_an_msback1;Hatten Sie in den letzten 12 Monaten 3 Monate oder länger fast täglich Rückenschmerzen und wenn ja, wie stark waren diese ausgeprägt?;4;'Ja, stark'
+d_an_msback1;Hatten Sie in den letzten 12 Monaten 3 Monate oder länger fast täglich Rückenschmerzen und wenn ja, wie stark waren diese ausgeprägt?;9999;'Weiß nicht' (Missing)
+d_an_msback1;Hatten Sie in den letzten 12 Monaten 3 Monate oder länger fast täglich Rückenschmerzen und wenn ja, wie stark waren diese ausgeprägt?;8888;'Keine Angabe' (Missing)
+d_an_msost2;Wurden Sie in den letzten 12 Monaten wegen einer Osteoporose ärztlich behandelt?;1;'Ja'
+d_an_msost2;Wurden Sie in den letzten 12 Monaten wegen einer Osteoporose ärztlich behandelt?;2;'Nein'
+d_an_msost2;Wurden Sie in den letzten 12 Monaten wegen einer Osteoporose ärztlich behandelt?;9999;'Weiß nicht' (Missing)
+d_an_msost2;Wurden Sie in den letzten 12 Monaten wegen einer Osteoporose ärztlich behandelt?;8888;'Keine Angabe' (Missing)
+d_an_msart1b;Wurden Sie in den letzten 12 Monaten wegen einer Arthrose der Hüftgelenke ärztlich behandelt?;1;'Ja'
+d_an_msart1b;Wurden Sie in den letzten 12 Monaten wegen einer Arthrose der Hüftgelenke ärztlich behandelt?;2;'Nein'
+d_an_msart1b;Wurden Sie in den letzten 12 Monaten wegen einer Arthrose der Hüftgelenke ärztlich behandelt?;9999;'Weiß nicht' (Missing)
+d_an_msart1b;Wurden Sie in den letzten 12 Monaten wegen einer Arthrose der Hüftgelenke ärztlich behandelt?;8888;'Keine Angabe' (Missing)
+d_an_msart2b;Wurden Sie in den letzten 12 Monaten wegen einer Arthrose der Kniegelenke ärztlich behandelt?;1;'Ja'
+d_an_msart2b;Wurden Sie in den letzten 12 Monaten wegen einer Arthrose der Kniegelenke ärztlich behandelt?;2;'Nein'
+d_an_msart2b;Wurden Sie in den letzten 12 Monaten wegen einer Arthrose der Kniegelenke ärztlich behandelt?;9999;'Weiß nicht' (Missing)
+d_an_msart2b;Wurden Sie in den letzten 12 Monaten wegen einer Arthrose der Kniegelenke ärztlich behandelt?;8888;'Keine Angabe' (Missing)
+a_ms_age_ost;Alter bei Erstdiagnose Osteoporose;7777;'Berechnung nicht möglich wegen fehlender Daten' (Missing)
+a_ms_age_ost;Alter bei Erstdiagnose Osteoporose;8886;'Unplausible Angabe, daher im Rahmen der QS gelöscht' (Missing)
+a_ms_age_ost;Alter bei Erstdiagnose Osteoporose;7776;'Berechnung nicht möglich wegen unplausibler Werte' (Missing)
+a_ms_age_ost;Alter bei Erstdiagnose Osteoporose;7775;'Erlaubt übersprungen' (Missing)
+a_ms_age_ost;Alter bei Erstdiagnose Osteoporose;8888;'Keine Angabe' (Missing)
+a_ms_age_ost;Alter bei Erstdiagnose Osteoporose;9999;'Weiß Nicht' (Missing)
+d_an_msart_1;Hüftgelenke;1;'Ja'
+d_an_msart_1;Hüftgelenke;2;'Nein'
+d_an_msart_1;Hüftgelenke;9999;'Weiß nicht' (Missing)
+d_an_msart_1;Hüftgelenke;8888;'Keine Angabe' (Missing)
+d_an_msart_2;Kniegelenke;1;'Ja'
+d_an_msart_2;Kniegelenke;2;'Nein'
+d_an_msart_2;Kniegelenke;9999;'Weiß nicht' (Missing)
+d_an_msart_2;Kniegelenke;8888;'Keine Angabe' (Missing)
+a_ms_age_arthueft;Alter bei Erstdiagnose Arthrose der Hüftgelenke;7777;'Berechnung nicht möglich wegen fehlender Daten' (Missing)
+a_ms_age_arthueft;Alter bei Erstdiagnose Arthrose der Hüftgelenke;8886;'Unplausible Angabe, daher im Rahmen der QS gelöscht' (Missing)
+a_ms_age_arthueft;Alter bei Erstdiagnose Arthrose der Hüftgelenke;7776;'Berechnung nicht möglich wegen unplausibler Werte' (Missing)
+a_ms_age_arthueft;Alter bei Erstdiagnose Arthrose der Hüftgelenke;7775;'Erlaubt übersprungen' (Missing)
+a_ms_age_arthueft;Alter bei Erstdiagnose Arthrose der Hüftgelenke;8888;'Keine Angabe' (Missing)
+a_ms_age_arthueft;Alter bei Erstdiagnose Arthrose der Hüftgelenke;9999;'Weiß Nicht' (Missing)
+a_ms_age_artknie;Alter bei Erstdiagnose Arthrose der Kniegelenke;7777;'Berechnung nicht möglich wegen fehlender Daten' (Missing)
+a_ms_age_artknie;Alter bei Erstdiagnose Arthrose der Kniegelenke;8886;'Unplausible Angabe, daher im Rahmen der QS gelöscht' (Missing)
+a_ms_age_artknie;Alter bei Erstdiagnose Arthrose der Kniegelenke;7776;'Berechnung nicht möglich wegen unplausibler Werte' (Missing)
+a_ms_age_artknie;Alter bei Erstdiagnose Arthrose der Kniegelenke;7775;'Erlaubt übersprungen' (Missing)
+a_ms_age_artknie;Alter bei Erstdiagnose Arthrose der Kniegelenke;8888;'Keine Angabe' (Missing)
+a_ms_age_artknie;Alter bei Erstdiagnose Arthrose der Kniegelenke;9999;'Weiß Nicht' (Missing)
+d_op_alg_8;Hüftprothese implantiert;1;'Ja'
+d_op_alg_8;Hüftprothese implantiert;2;'Nein'
+d_op_alg_8;Hüftprothese implantiert;9999;'Weiß nicht' (Missing)
+d_op_alg_8;Hüftprothese implantiert;8888;'Keine Angabe' (Missing)
+d_op_alg_9;Knieprothese implantiert;1;'Ja'
+d_op_alg_9;Knieprothese implantiert;2;'Nein'
+d_op_alg_9;Knieprothese implantiert;9999;'Weiß nicht' (Missing)
+d_op_alg_9;Knieprothese implantiert;8888;'Keine Angabe' (Missing)
+d_an_sel_2;Morbus Bechterew/Ankylosierende Spondylitis;1;'Ja'
+d_an_sel_2;Morbus Bechterew/Ankylosierende Spondylitis;2;'Nein'
+d_an_sel_2;Morbus Bechterew/Ankylosierende Spondylitis;9999;'Weiß nicht' (Missing)
+d_an_sel_2;Morbus Bechterew/Ankylosierende Spondylitis;8888;'Keine Angabe' (Missing)
+a_sel_age_bechterew;Alter bei Erstdiagnose Morbus Bechterew / Ankylosierende Spondylitis;7777;'Berechnung nicht möglich wegen fehlender Daten' (Missing)
+a_sel_age_bechterew;Alter bei Erstdiagnose Morbus Bechterew / Ankylosierende Spondylitis;8886;'Unplausible Angabe, daher im Rahmen der QS gelöscht' (Missing)
+a_sel_age_bechterew;Alter bei Erstdiagnose Morbus Bechterew / Ankylosierende Spondylitis;7776;'Berechnung nicht möglich wegen unplausibler Werte' (Missing)
+a_sel_age_bechterew;Alter bei Erstdiagnose Morbus Bechterew / Ankylosierende Spondylitis;7775;'Erlaubt übersprungen' (Missing)
+a_sel_age_bechterew;Alter bei Erstdiagnose Morbus Bechterew / Ankylosierende Spondylitis;8888;'Keine Angabe' (Missing)
+a_sel_age_bechterew;Alter bei Erstdiagnose Morbus Bechterew / Ankylosierende Spondylitis;9999;'Weiß Nicht' (Missing)
+d_se_n1a;Geburtsland;778;'Antwort ist nicht in dieser Liste'
+d_se_n1a;Geburtsland;777;'--- Alle Staaten alphabetisch (N=185) -----------------------------------'
+d_se_n1a;Geburtsland;386;'Türkei'
+d_se_n1a;Geburtsland;110;'Italien'
+d_se_n1a;Geburtsland;117;'Polen'
+d_se_n1a;Geburtsland;355;'Serbien'
+d_se_n1a;Geburtsland;316;'Montenegro'
+d_se_n1a;Geburtsland;287;'Kosovo'
+d_se_n1a;Geburtsland;108;'Griechenland'
+d_se_n1a;Geburtsland;288;'Kroatien'
+d_se_n1a;Geburtsland;345;'Russland'
+d_se_n1a;Geburtsland;116;'Österreich'
+d_se_n1a;Geburtsland;225;'Bosnien und Herzegowina'
+d_se_n1a;Geburtsland;115;'Niederlande'
+d_se_n1a;Geburtsland;390;'Ukraine'
+d_se_n1a;Geburtsland;118;'Portugal'
+d_se_n1a;Geburtsland;107;'Frankreich'
+d_se_n1a;Geburtsland;119;'Rumänien'
+d_se_n1a;Geburtsland;123;'Spanien'
+d_se_n1a;Geburtsland;398;'Vereinigte Staaten (USA)'
+d_se_n1a;Geburtsland;126;'Vereinigtes Königreich (England, Wales, Schottland und Nordirland)'
+d_se_n1a;Geburtsland;8888;'Keine Angabe' (Missing)
+d_se_n1a;Geburtsland;9999;'Weiß nicht' (Missing)
+d_se_n1a;Geburtsland;201;'Abchasien'
+d_se_n1a;Geburtsland;202;'Afghanistan'
+d_se_n1a;Geburtsland;203;'Ägypten'
+d_se_n1a;Geburtsland;204;'Albanien'
+d_se_n1a;Geburtsland;205;'Algerien'
+d_se_n1a;Geburtsland;206;'Andorra'
+d_se_n1a;Geburtsland;207;'Angola'
+d_se_n1a;Geburtsland;208;'Antigua und Barbuda'
+d_se_n1a;Geburtsland;209;'Äquatorialguinea'
+d_se_n1a;Geburtsland;210;'Argentinien'
+d_se_n1a;Geburtsland;211;'Armenien'
+d_se_n1a;Geburtsland;212;'Aserbaidschan'
+d_se_n1a;Geburtsland;213;'Äthiopien'
+d_se_n1a;Geburtsland;214;'Australien'
+d_se_n1a;Geburtsland;215;'Bahamas'
+d_se_n1a;Geburtsland;216;'Bahrain'
+d_se_n1a;Geburtsland;217;'Bangladesch'
+d_se_n1a;Geburtsland;218;'Barbados'
+d_se_n1a;Geburtsland;101;'Belgien'
+d_se_n1a;Geburtsland;220;'Belize'
+d_se_n1a;Geburtsland;221;'Benin'
+d_se_n1a;Geburtsland;222;'Bergkarabach'
+d_se_n1a;Geburtsland;223;'Bhutan'
+d_se_n1a;Geburtsland;224;'Bolivien'
+d_se_n1a;Geburtsland;226;'Botsuana'
+d_se_n1a;Geburtsland;227;'Brasilien'
+d_se_n1a;Geburtsland;228;'Brunei'
+d_se_n1a;Geburtsland;102;'Bulgarien'
+d_se_n1a;Geburtsland;230;'Burkina Faso'
+d_se_n1a;Geburtsland;231;'Burundi'
+d_se_n1a;Geburtsland;232;'Chile'
+d_se_n1a;Geburtsland;233;'China'
+d_se_n1a;Geburtsland;234;'Cookinseln'
+d_se_n1a;Geburtsland;235;'Costa Rica'
+d_se_n1a;Geburtsland;103;'Dänemark'
+d_se_n1a;Geburtsland;238;'Dominica'
+d_se_n1a;Geburtsland;239;'Dominikanische Republik'
+d_se_n1a;Geburtsland;240;'Dschibuti'
+d_se_n1a;Geburtsland;241;'Ecuador'
+d_se_n1a;Geburtsland;242;'El Salvador'
+d_se_n1a;Geburtsland;243;'Elfenbeinküste'
+d_se_n1a;Geburtsland;244;'Eritrea'
+d_se_n1a;Geburtsland;105;'Estland'
+d_se_n1a;Geburtsland;246;'Fidschi'
+d_se_n1a;Geburtsland;106;'Finnland'
+d_se_n1a;Geburtsland;249;'Gabun'
+d_se_n1a;Geburtsland;250;'Gambia'
+d_se_n1a;Geburtsland;251;'Georgien'
+d_se_n1a;Geburtsland;252;'Ghana'
+d_se_n1a;Geburtsland;253;'Grenada'
+d_se_n1a;Geburtsland;255;'Guatemala'
+d_se_n1a;Geburtsland;256;'Guinea'
+d_se_n1a;Geburtsland;257;'Guinea-Bissau'
+d_se_n1a;Geburtsland;258;'Guyana'
+d_se_n1a;Geburtsland;259;'Haiti'
+d_se_n1a;Geburtsland;260;'Honduras'
+d_se_n1a;Geburtsland;261;'Indien'
+d_se_n1a;Geburtsland;262;'Indonesien'
+d_se_n1a;Geburtsland;263;'Irak'
+d_se_n1a;Geburtsland;264;'Iran'
+d_se_n1a;Geburtsland;109;'Irland'
+d_se_n1a;Geburtsland;266;'Island'
+d_se_n1a;Geburtsland;267;'Israel'
+d_se_n1a;Geburtsland;269;'Jamaika'
+d_se_n1a;Geburtsland;270;'Japan'
+d_se_n1a;Geburtsland;271;'Jemen'
+d_se_n1a;Geburtsland;272;'Jordanien'
+d_se_n1a;Geburtsland;273;'Kambodscha'
+d_se_n1a;Geburtsland;274;'Kamerun'
+d_se_n1a;Geburtsland;275;'Kanada'
+d_se_n1a;Geburtsland;276;'Kap Verde'
+d_se_n1a;Geburtsland;277;'Kasachstan'
+d_se_n1a;Geburtsland;278;'Katar'
+d_se_n1a;Geburtsland;279;'Kenia'
+d_se_n1a;Geburtsland;280;'Kirgisistan'
+d_se_n1a;Geburtsland;281;'Kiribati'
+d_se_n1a;Geburtsland;282;'Kolumbien'
+d_se_n1a;Geburtsland;283;'Komoren'
+d_se_n1a;Geburtsland;284;'Kongo, Demokratische Republik'
+d_se_n1a;Geburtsland;285;'Kongo, Republik'
+d_se_n1a;Geburtsland;286;'Königreich der Niederlande'
+d_se_n1a;Geburtsland;289;'Kuba'
+d_se_n1a;Geburtsland;290;'Kuwait'
+d_se_n1a;Geburtsland;291;'Laos'
+d_se_n1a;Geburtsland;292;'Lesotho'
+d_se_n1a;Geburtsland;111;'Lettland'
+d_se_n1a;Geburtsland;294;'Libanon'
+d_se_n1a;Geburtsland;295;'Liberia'
+d_se_n1a;Geburtsland;296;'Libyen'
+d_se_n1a;Geburtsland;297;'Liechtenstein'
+d_se_n1a;Geburtsland;112;'Litauen'
+d_se_n1a;Geburtsland;113;'Luxemburg'
+d_se_n1a;Geburtsland;300;'Madagaskar'
+d_se_n1a;Geburtsland;301;'Malawi'
+d_se_n1a;Geburtsland;302;'Malaysia'
+d_se_n1a;Geburtsland;303;'Malediven'
+d_se_n1a;Geburtsland;304;'Mali'
+d_se_n1a;Geburtsland;114;'Malta'
+d_se_n1a;Geburtsland;306;'Marokko'
+d_se_n1a;Geburtsland;307;'Marshallinseln'
+d_se_n1a;Geburtsland;308;'Mauretanien'
+d_se_n1a;Geburtsland;309;'Mauritius'
+d_se_n1a;Geburtsland;310;'Mazedonien'
+d_se_n1a;Geburtsland;311;'Mexiko'
+d_se_n1a;Geburtsland;312;'Mikronesien'
+d_se_n1a;Geburtsland;313;'Moldawien'
+d_se_n1a;Geburtsland;314;'Monaco'
+d_se_n1a;Geburtsland;315;'Mongolei'
+d_se_n1a;Geburtsland;317;'Mosambik'
+d_se_n1a;Geburtsland;318;'Myanmar'
+d_se_n1a;Geburtsland;319;'Namibia'
+d_se_n1a;Geburtsland;320;'Nauru'
+d_se_n1a;Geburtsland;321;'Nepal'
+d_se_n1a;Geburtsland;322;'Neuseeland'
+d_se_n1a;Geburtsland;323;'Nicaragua'
+d_se_n1a;Geburtsland;324;'Niger'
+d_se_n1a;Geburtsland;325;'Nigeria'
+d_se_n1a;Geburtsland;326;'Niue'
+d_se_n1a;Geburtsland;327;'Nord-Korea'
+d_se_n1a;Geburtsland;328;'Nordzypern'
+d_se_n1a;Geburtsland;329;'Norwegen'
+d_se_n1a;Geburtsland;330;'Oman'
+d_se_n1a;Geburtsland;332;'Osttimor'
+d_se_n1a;Geburtsland;333;'Pakistan'
+d_se_n1a;Geburtsland;334;'Palästina'
+d_se_n1a;Geburtsland;335;'Palau'
+d_se_n1a;Geburtsland;336;'Panama'
+d_se_n1a;Geburtsland;337;'Papua-Neuguinea'
+d_se_n1a;Geburtsland;338;'Paraguay'
+d_se_n1a;Geburtsland;339;'Peru'
+d_se_n1a;Geburtsland;340;'Philippinen'
+d_se_n1a;Geburtsland;343;'Ruanda'
+d_se_n1a;Geburtsland;546;'Salomonen'
+d_se_n1a;Geburtsland;347;'Sambia'
+d_se_n1a;Geburtsland;348;'Samoa'
+d_se_n1a;Geburtsland;349;'San Marino'
+d_se_n1a;Geburtsland;350;'Sao Tome und Principe'
+d_se_n1a;Geburtsland;351;'Saudi-Arabien'
+d_se_n1a;Geburtsland;120;'Schweden'
+d_se_n1a;Geburtsland;353;'Schweiz'
+d_se_n1a;Geburtsland;354;'Senegal'
+d_se_n1a;Geburtsland;356;'Seychellen'
+d_se_n1a;Geburtsland;357;'Sierra Leone'
+d_se_n1a;Geburtsland;358;'Simbabwe'
+d_se_n1a;Geburtsland;359;'Singapur'
+d_se_n1a;Geburtsland;121;'Slowakei'
+d_se_n1a;Geburtsland;122;'Slowenien'
+d_se_n1a;Geburtsland;362;'Somalia'
+d_se_n1a;Geburtsland;363;'Somaliland'
+d_se_n1a;Geburtsland;365;'Sri Lanka'
+d_se_n1a;Geburtsland;366;'St. Kitts und Nevis'
+d_se_n1a;Geburtsland;367;'St. Lucia'
+d_se_n1a;Geburtsland;368;'St. Vincent und die Grenadinen'
+d_se_n1a;Geburtsland;369;'Südafrika'
+d_se_n1a;Geburtsland;370;'Sudan'
+d_se_n1a;Geburtsland;371;'Süd-Korea'
+d_se_n1a;Geburtsland;372;'Südossetien'
+d_se_n1a;Geburtsland;373;'Suriname'
+d_se_n1a;Geburtsland;374;'Swasiland'
+d_se_n1a;Geburtsland;375;'Syrien'
+d_se_n1a;Geburtsland;376;'Tadschikistan'
+d_se_n1a;Geburtsland;377;'Tansania'
+d_se_n1a;Geburtsland;378;'Thailand'
+d_se_n1a;Geburtsland;379;'Togo'
+d_se_n1a;Geburtsland;380;'Tonga'
+d_se_n1a;Geburtsland;381;'Transnistrien'
+d_se_n1a;Geburtsland;382;'Trinidad und Tobago'
+d_se_n1a;Geburtsland;383;'Tschad'
+d_se_n1a;Geburtsland;124;'Tschechien'
+d_se_n1a;Geburtsland;385;'Tunesien'
+d_se_n1a;Geburtsland;387;'Turkmenistan'
+d_se_n1a;Geburtsland;388;'Tuvalu'
+d_se_n1a;Geburtsland;389;'Uganda'
+d_se_n1a;Geburtsland;125;'Ungarn'
+d_se_n1a;Geburtsland;392;'Uruguay'
+d_se_n1a;Geburtsland;393;'Usbekistan'
+d_se_n1a;Geburtsland;394;'Vanuatu'
+d_se_n1a;Geburtsland;395;'Vatikanstadt'
+d_se_n1a;Geburtsland;396;'Venezuela'
+d_se_n1a;Geburtsland;397;'Vereinigte Arabische Emirate'
+d_se_n1a;Geburtsland;400;'Vietnam'
+d_se_n1a;Geburtsland;401;'Weißrussland'
+d_se_n1a;Geburtsland;402;'Westsahara'
+d_se_n1a;Geburtsland;403;'Zentralafrikanische Republik'
+d_se_n1a;Geburtsland;127;'Zypern'
+d_alk1;Wie oft nehmen Sie ein alkoholisches Getränk, also z.B. ein Glas Wein, Bier, Mixgetränk, Schnaps oder Likör, zu sich?;2;'Nie'
+d_alk1;Wie oft nehmen Sie ein alkoholisches Getränk, also z.B. ein Glas Wein, Bier, Mixgetränk, Schnaps oder Likör, zu sich?;11;'1-mal pro Monat oder seltener'
+d_alk1;Wie oft nehmen Sie ein alkoholisches Getränk, also z.B. ein Glas Wein, Bier, Mixgetränk, Schnaps oder Likör, zu sich?;12;'2- bis 4-mal pro Monat'
+d_alk1;Wie oft nehmen Sie ein alkoholisches Getränk, also z.B. ein Glas Wein, Bier, Mixgetränk, Schnaps oder Likör, zu sich?;13;'2- bis 3-mal pro Woche'
+d_alk1;Wie oft nehmen Sie ein alkoholisches Getränk, also z.B. ein Glas Wein, Bier, Mixgetränk, Schnaps oder Likör, zu sich?;14;'4- bis 6-mal pro Woche'
+d_alk1;Wie oft nehmen Sie ein alkoholisches Getränk, also z.B. ein Glas Wein, Bier, Mixgetränk, Schnaps oder Likör, zu sich?;15;'1-mal pro Tag oder öfter'
+d_alk1;Wie oft nehmen Sie ein alkoholisches Getränk, also z.B. ein Glas Wein, Bier, Mixgetränk, Schnaps oder Likör, zu sich?;88;'Keine Angabe' (Missing)
+d_alk1;Wie oft nehmen Sie ein alkoholisches Getränk, also z.B. ein Glas Wein, Bier, Mixgetränk, Schnaps oder Likör, zu sich?;99;'Weiß nicht' (Missing)
+d_alk2r1;Wenn Sie Alkohol trinken, wie viele alkoholische Getränke trinken Sie dann üblicherweise an einem Tag? ;1;'1 bis 2 alkoholische Getränke'
+d_alk2r1;Wenn Sie Alkohol trinken, wie viele alkoholische Getränke trinken Sie dann üblicherweise an einem Tag? ;2;'3 bis 4 alkoholische Getränke'
+d_alk2r1;Wenn Sie Alkohol trinken, wie viele alkoholische Getränke trinken Sie dann üblicherweise an einem Tag? ;3;'5 bis 6 alkoholische Getränke'
+d_alk2r1;Wenn Sie Alkohol trinken, wie viele alkoholische Getränke trinken Sie dann üblicherweise an einem Tag? ;4;'7 bis 9 alkoholische Getränke'
+d_alk2r1;Wenn Sie Alkohol trinken, wie viele alkoholische Getränke trinken Sie dann üblicherweise an einem Tag? ;5;'10 oder mehr alkoholische Getränke'
+d_alk2r1;Wenn Sie Alkohol trinken, wie viele alkoholische Getränke trinken Sie dann üblicherweise an einem Tag? ;88;'Keine Angabe' (Missing)
+d_alk2r1;Wenn Sie Alkohol trinken, wie viele alkoholische Getränke trinken Sie dann üblicherweise an einem Tag? ;99;'Weiß nicht' (Missing)
+d_qol3_1;Mittelschwere Tätigkeiten, z. B. einen Tisch verschieben, staubsaugen, kegeln, Golf spielen;1;'Ja, stark eingeschränkt'
+d_qol3_1;Mittelschwere Tätigkeiten, z. B. einen Tisch verschieben, staubsaugen, kegeln, Golf spielen;2;'Ja, etwas eingeschränkt'
+d_qol3_1;Mittelschwere Tätigkeiten, z. B. einen Tisch verschieben, staubsaugen, kegeln, Golf spielen;3;'Nein, überhaupt nicht eingeschränkt'
+d_qol3_1;Mittelschwere Tätigkeiten, z. B. einen Tisch verschieben, staubsaugen, kegeln, Golf spielen;8;'Keine Angabe' (Missing)
+d_qol3_1;Mittelschwere Tätigkeiten, z. B. einen Tisch verschieben, staubsaugen, kegeln, Golf spielen;9;'Weiß nicht' (Missing)
+d_hi4;Haben Sie bei körperlicher Belastung Luftnot oder Schwächegefühl oder beides?;11;'Nur Luftnot'
+d_hi4;Haben Sie bei körperlicher Belastung Luftnot oder Schwächegefühl oder beides?;12;'Nur Schwächegefühl'
+d_hi4;Haben Sie bei körperlicher Belastung Luftnot oder Schwächegefühl oder beides?;13;'Beides'
+d_hi4;Haben Sie bei körperlicher Belastung Luftnot oder Schwächegefühl oder beides?;2;'Weder Luftnot noch Schwächegefühl'
+d_hi4;Haben Sie bei körperlicher Belastung Luftnot oder Schwächegefühl oder beides?;99;'Weiß nicht' (Missing)
+d_hi4;Haben Sie bei körperlicher Belastung Luftnot oder Schwächegefühl oder beides?;88;'Keine Angabe' (Missing)
+d_hi5;Bei welcher Belastungsstärke treten Luftnot oder Schwächegefühl auf?;1;'Geringe Belastung'
+d_hi5;Bei welcher Belastungsstärke treten Luftnot oder Schwächegefühl auf?;2;'Mittlere Belastung'
+d_hi5;Bei welcher Belastungsstärke treten Luftnot oder Schwächegefühl auf?;3;'Schwere Belastung'
+d_hi5;Bei welcher Belastungsstärke treten Luftnot oder Schwächegefühl auf?;8;'Keine Angabe' (Missing)
+d_hi5;Bei welcher Belastungsstärke treten Luftnot oder Schwächegefühl auf?;9;'Weiß nicht' (Missing)
+d_p1;Beinhaltet Ihre Arbeit intensive körperliche Aktivität, bei der Atmung und Puls stark zunehmen, wie schwere Lasten tragen oder heben, graben oder Bauarbeiten mit einer Dauer von mindestens zehn Minuten?;1;'Ja'
+d_p1;Beinhaltet Ihre Arbeit intensive körperliche Aktivität, bei der Atmung und Puls stark zunehmen, wie schwere Lasten tragen oder heben, graben oder Bauarbeiten mit einer Dauer von mindestens zehn Minuten?;2;'Nein'
+d_p1;Beinhaltet Ihre Arbeit intensive körperliche Aktivität, bei der Atmung und Puls stark zunehmen, wie schwere Lasten tragen oder heben, graben oder Bauarbeiten mit einer Dauer von mindestens zehn Minuten?;9;'Weiß nicht' (Missing)
+d_p1;Beinhaltet Ihre Arbeit intensive körperliche Aktivität, bei der Atmung und Puls stark zunehmen, wie schwere Lasten tragen oder heben, graben oder Bauarbeiten mit einer Dauer von mindestens zehn Minuten?;8;'Keine Angabe' (Missing)
+d_p2_d;An wie vielen Tagen in einer gewöhnlichen Woche betätigen Sie sich bei der Arbeit körperlich intensiv?;9999;'Weiß nicht' (Missing)
+d_p2_d;An wie vielen Tagen in einer gewöhnlichen Woche betätigen Sie sich bei der Arbeit körperlich intensiv?;8888;'Keine Angabe' (Missing)
+d_p2_d;An wie vielen Tagen in einer gewöhnlichen Woche betätigen Sie sich bei der Arbeit körperlich intensiv?;7777;'unplausible Angabe' (Missing)
+d_p3;Wie viel Zeit verbringen Sie an einem gewöhnlichen Tag bei der Arbeit mit intensiver körperlicher Aktivität?;9999;'Weiß nicht' (Missing)
+d_p3;Wie viel Zeit verbringen Sie an einem gewöhnlichen Tag bei der Arbeit mit intensiver körperlicher Aktivität?;8888;'Keine Angabe' (Missing)
+d_p4;Beinhaltet Ihre Arbeit moderate körperliche Aktivität, bei der Atmung und Puls leicht zunehmen, wie flottes Gehen oder Tragen leichter Lasten mit einer Dauer von mindestens zehn Minuten?;1;'Ja'
+d_p4;Beinhaltet Ihre Arbeit moderate körperliche Aktivität, bei der Atmung und Puls leicht zunehmen, wie flottes Gehen oder Tragen leichter Lasten mit einer Dauer von mindestens zehn Minuten?;2;'Nein'
+d_p4;Beinhaltet Ihre Arbeit moderate körperliche Aktivität, bei der Atmung und Puls leicht zunehmen, wie flottes Gehen oder Tragen leichter Lasten mit einer Dauer von mindestens zehn Minuten?;9;'Weiß nicht' (Missing)
+d_p4;Beinhaltet Ihre Arbeit moderate körperliche Aktivität, bei der Atmung und Puls leicht zunehmen, wie flottes Gehen oder Tragen leichter Lasten mit einer Dauer von mindestens zehn Minuten?;8;'Keine Angabe' (Missing)
+d_p5_d;An wie vielen Tagen in einer gewöhnlichen Woche führen Sie bei der Arbeit moderate körperliche Aktivität aus?;9999;'Weiß nicht' (Missing)
+d_p5_d;An wie vielen Tagen in einer gewöhnlichen Woche führen Sie bei der Arbeit moderate körperliche Aktivität aus?;8888;'Keine Angabe' (Missing)
+d_p5_d;An wie vielen Tagen in einer gewöhnlichen Woche führen Sie bei der Arbeit moderate körperliche Aktivität aus?;7777;'unplausible Angabe' (Missing)
+d_p6;Wie viel Zeit verbringen Sie an einem gewöhnlichen Tag bei der Arbeit mit moderater körperlicher Aktivität?;9999;'Weiß nicht' (Missing)
+d_p6;Wie viel Zeit verbringen Sie an einem gewöhnlichen Tag bei der Arbeit mit moderater körperlicher Aktivität?;8888;'Keine Angabe' (Missing)
+d_p7;Gehen Sie zu Fuß oder fahren Sie mit dem Fahrrad, um von einem Ort zum anderen zu kommen, mit einer Dauer von mindestens zehn Minuten?;1;'Ja'
+d_p7;Gehen Sie zu Fuß oder fahren Sie mit dem Fahrrad, um von einem Ort zum anderen zu kommen, mit einer Dauer von mindestens zehn Minuten?;2;'Nein'
+d_p7;Gehen Sie zu Fuß oder fahren Sie mit dem Fahrrad, um von einem Ort zum anderen zu kommen, mit einer Dauer von mindestens zehn Minuten?;9;'Weiß nicht' (Missing)
+d_p7;Gehen Sie zu Fuß oder fahren Sie mit dem Fahrrad, um von einem Ort zum anderen zu kommen, mit einer Dauer von mindestens zehn Minuten?;8;'Keine Angabe' (Missing)
+d_p8_d;An wie vielen Tagen in einer gewöhnlichen Woche gehen Sie zu Fuß oder fahren Sie mit dem Fahrrad, um von einem Ort zum anderen zu kommen, mit einer Dauer von mindestens zehn Minuten?;9999;'Weiß nicht' (Missing)
+d_p8_d;An wie vielen Tagen in einer gewöhnlichen Woche gehen Sie zu Fuß oder fahren Sie mit dem Fahrrad, um von einem Ort zum anderen zu kommen, mit einer Dauer von mindestens zehn Minuten?;8888;'Keine Angabe' (Missing)
+d_p8_d;An wie vielen Tagen in einer gewöhnlichen Woche gehen Sie zu Fuß oder fahren Sie mit dem Fahrrad, um von einem Ort zum anderen zu kommen, mit einer Dauer von mindestens zehn Minuten?;7777;'unplausible Angabe' (Missing)
+d_p9;Wie viel Zeit investieren Sie an einem gewöhnlichen Tag, um zu Fuß oder mit dem Fahrrad von einem Ort zum anderen zu kommen?;9999;'Weiß nicht' (Missing)
+d_p9;Wie viel Zeit investieren Sie an einem gewöhnlichen Tag, um zu Fuß oder mit dem Fahrrad von einem Ort zum anderen zu kommen?;8888;'Keine Angabe' (Missing)
+d_p10;Betreiben Sie in der Freizeit intensive körperliche Aktivität oder Sport, bei dem Atmung und Puls stark zunehmen, wie Laufen oder Fußball mit einer Dauer von mindestens zehn Minuten?;1;'Ja'
+d_p10;Betreiben Sie in der Freizeit intensive körperliche Aktivität oder Sport, bei dem Atmung und Puls stark zunehmen, wie Laufen oder Fußball mit einer Dauer von mindestens zehn Minuten?;2;'Nein'
+d_p10;Betreiben Sie in der Freizeit intensive körperliche Aktivität oder Sport, bei dem Atmung und Puls stark zunehmen, wie Laufen oder Fußball mit einer Dauer von mindestens zehn Minuten?;9;'Weiß nicht' (Missing)
+d_p10;Betreiben Sie in der Freizeit intensive körperliche Aktivität oder Sport, bei dem Atmung und Puls stark zunehmen, wie Laufen oder Fußball mit einer Dauer von mindestens zehn Minuten?;8;'Keine Angabe' (Missing)
+d_p11_d;An wie vielen Tagen in einer gewöhnlichen Woche betreiben Sie intensive körperliche Aktivität oder Sport in der Freizeit?;9999;'Weiß nicht' (Missing)
+d_p11_d;An wie vielen Tagen in einer gewöhnlichen Woche betreiben Sie intensive körperliche Aktivität oder Sport in der Freizeit?;8888;'Keine Angabe' (Missing)
+d_p11_d;An wie vielen Tagen in einer gewöhnlichen Woche betreiben Sie intensive körperliche Aktivität oder Sport in der Freizeit?;7777;'unplausible Angabe' (Missing)
+d_p12;Wie viel Zeit investieren Sie an einem gewöhnlichen Tag in der Freizeit in intensive körperliche Aktivität oder Sport?;9999;'Weiß nicht' (Missing)
+d_p12;Wie viel Zeit investieren Sie an einem gewöhnlichen Tag in der Freizeit in intensive körperliche Aktivität oder Sport?;8888;'Keine Angabe' (Missing)
+d_p13;Betreiben Sie in der Freizeit moderate körperliche Aktivität oder Sport, bei dem Atmung und Puls leicht zunehmen, wie flottes Gehen, Fahrrad fahren, Schwimmen oder Volleyball mit einer Dauer von mindestens zehn Minuten?;1;'Ja'
+d_p13;Betreiben Sie in der Freizeit moderate körperliche Aktivität oder Sport, bei dem Atmung und Puls leicht zunehmen, wie flottes Gehen, Fahrrad fahren, Schwimmen oder Volleyball mit einer Dauer von mindestens zehn Minuten?;2;'Nein'
+d_p13;Betreiben Sie in der Freizeit moderate körperliche Aktivität oder Sport, bei dem Atmung und Puls leicht zunehmen, wie flottes Gehen, Fahrrad fahren, Schwimmen oder Volleyball mit einer Dauer von mindestens zehn Minuten?;9;'Weiß nicht' (Missing)
+d_p13;Betreiben Sie in der Freizeit moderate körperliche Aktivität oder Sport, bei dem Atmung und Puls leicht zunehmen, wie flottes Gehen, Fahrrad fahren, Schwimmen oder Volleyball mit einer Dauer von mindestens zehn Minuten?;8;'Keine Angabe' (Missing)
+d_p14_d;An wie vielen Tagen in einer gewöhnlichen Woche betreiben Sie moderate körperliche Aktivität oder Sport in der Freizeit?;9999;'Weiß nicht' (Missing)
+d_p14_d;An wie vielen Tagen in einer gewöhnlichen Woche betreiben Sie moderate körperliche Aktivität oder Sport in der Freizeit?;8888;'Keine Angabe' (Missing)
+d_p14_d;An wie vielen Tagen in einer gewöhnlichen Woche betreiben Sie moderate körperliche Aktivität oder Sport in der Freizeit?;7777;'unplausible Angabe' (Missing)
+d_p15;Wie viel Zeit investieren Sie an einem gewöhnlichen Tag in der Freizeit in moderate körperliche Aktivität oder Sport?;9999;'Weiß nicht' (Missing)
+d_p15;Wie viel Zeit investieren Sie an einem gewöhnlichen Tag in der Freizeit in moderate körperliche Aktivität oder Sport?;8888;'Keine Angabe' (Missing)
+d_p16;Wie viel Zeit verbringen Sie an einem gewöhnlichen Tag mit Sitzen oder Ruhen?;9999;'Weiß nicht' (Missing)
+d_p16;Wie viel Zeit verbringen Sie an einem gewöhnlichen Tag mit Sitzen oder Ruhen?;8888;'Keine Angabe' (Missing)
+d_fit;körpl. Fit;1;'essen, sich anziehen, am Tisch arbeiten'
+d_fit;körpl. Fit;2;'duschen, einkaufen, kochen, acht Stufen herabsteigen'
+d_fit;körpl. Fit;3;'langsames Gehen auf ebener Strecke für bis zu 200 m, moderate Hausarbeit wie staubsaugen, den Boden wischen oder Einkäufe tragen'
+d_fit;körpl. Fit;4;'leichte Gartenarbeit (z. B. Laub harken, Unkraut jäten, fegen, Rasen mähen), leichte Handwerksarbeit, Malern'
+d_fit;körpl. Fit;5;'schnell gehen, Gesellschaftstanz, Auto waschen'
+d_fit;körpl. Fit;6;'anstrengende Handwerksarbeit, mittelschwere Lasten (15 kg) tragen'
+d_fit;körpl. Fit;7;'Lasten von 30 kg tragen, schwere Gartenarbeit (z. B. umgraben), bergauf laufen'
+d_fit;körpl. Fit;8;'Einkäufe Treppen herauftragen, schwere Möbel verrücken, langsames Joggen auf flacher Ebene, schnelles Treppensteigen'
+d_fit;körpl. Fit;9;'Fahrrad fahren in moderatem Tempo, Holz sägen, langsames Seilspringen'
+d_fit;körpl. Fit;10;'schnelles Schwimmen, bergauf Fahrrad fahren, joggen mit einer Geschwindigkeit von etwa 10 km/h  '
+d_fit;körpl. Fit;11;'schwere Lasten (z. B. Kind oder Feuerholz) über 2 Etagen herauftragen, schnelles Fahrrad fahren, Ski fahren'
+d_fit;körpl. Fit;12;'schnelles, kontinuierliches Laufen/Rennen (1 km in 5 Minuten) auf ebenem Grund '
+d_fit;körpl. Fit;13;'jegliche Wettbewerbstätigkeit (z. B. laufen, Fahrrad fahren, schwimmen, rudern), die auch Sprint-Passagen enthält'
+d_fit;körpl. Fit;99;'Weiß nicht' (Missing)
+d_fit;körpl. Fit;88;'Keine Angabe' (Missing)
+d_tbk;Haben Sie jemals Zigaretten, Zigarren, Zigarillos, Pfeife oder andere Tabakprodukte geraucht?;2;'Ich habe nie geraucht'
+d_tbk;Haben Sie jemals Zigaretten, Zigarren, Zigarillos, Pfeife oder andere Tabakprodukte geraucht?;11;'Ja, ich rauche bis heute'
+d_tbk;Haben Sie jemals Zigaretten, Zigarren, Zigarillos, Pfeife oder andere Tabakprodukte geraucht?;12;'Ja, ich habe früher geraucht'
+d_tbk;Haben Sie jemals Zigaretten, Zigarren, Zigarillos, Pfeife oder andere Tabakprodukte geraucht?;88;'Keine Angabe' (Missing)
+d_tbk;Haben Sie jemals Zigaretten, Zigarren, Zigarillos, Pfeife oder andere Tabakprodukte geraucht?;99;'Weiß nicht' (Missing)
+d_tbk_ar1_a;Alter;9999;'Weiß nicht' (Missing)
+d_tbk_ar1_a;Alter;8888;'Keine Angabe' (Missing)
+d_tbk_ar1_a;Alter;7777;'unplausible Angabe' (Missing)
+SE01;Haben Sie momentan oder hatten Sie in den letzten vier Wochen Schmerzen?;1;'Ja'
+SE01;Haben Sie momentan oder hatten Sie in den letzten vier Wochen Schmerzen?;2;'Nein'
+SE01;Haben Sie momentan oder hatten Sie in den letzten vier Wochen Schmerzen?;4;'Möchte nicht antworten' (Missing)
+SE02;XML;;
+d_usa_sat1;Messung 1 (SAT 1);;
+d_usa_sat2;Messung 2 (SAT 2);;
+d_usa_vat1;Messung 1 (VAT 1);;
+d_usa_vat2;Messung 2 (VAT 2);;
+a_ethn1;Ethnie;1;'Kaukasisch'
+a_ethn1;Ethnie;2;'Afrikanisch'
+a_ethn1;Ethnie;3;'Indischer Subkontinent'
+a_ethn1;Ethnie;4;'Südost-Asiatisch'
+a_ethn1;Ethnie;5;'Nordost-Asiatisch'
+a_ethn1;Ethnie;6;'Japanisch'
+a_ethn1;Ethnie;7;'Süd- und Mittelamerikanisch'
+a_ethn1;Ethnie;8;'Indianisch'
+a_ethn1;Ethnie;-9;'weiß nicht' (Missing)
+a_ethn1;Ethnie;-8;'keine Angabe' (Missing)
+a_ethn2;weitere Ethnie;0;'keine weitere'
+a_ethn2;weitere Ethnie;1;'Kaukasisch'
+a_ethn2;weitere Ethnie;2;'Afrikanisch'
+a_ethn2;weitere Ethnie;3;'Indischer Subkontinent'
+a_ethn2;weitere Ethnie;4;'Südost-Asiatisch'
+a_ethn2;weitere Ethnie;5;'Nordost-Asiatisch'
+a_ethn2;weitere Ethnie;6;'Japanisch'
+a_ethn2;weitere Ethnie;7;'Süd- und Mittelamerikanisch'
+a_ethn2;weitere Ethnie;8;'Indianisch'
+a_ethn2;weitere Ethnie;-9;'weiß nicht' (Missing)
+anthro_groe;Größe (gemessen);;
+anthro_gew;Gewicht (gemessen);;
+anthro_taillenumfang;Taillenumfang (manuell übertragen);;
+anthro_hueftumfang;Hüftumfang;;
+anthro_fettmasse;Fettmasse (FM %);;
+anthro_impedanz;Impedanz Z (50 KHz);;
+anthro_phasenwinkel;Phasenwinkel (50 kHz);;
+anthro_resistanz;Resistanz R (50 KHz);;
+anthro_reaktanz;Reaktanz Xc (50 KHz);;
+BD17;Armumfang (Mitte des Oberarms, in cm);;
+BD01;Systole (Mess1);;
+BD02;Diastole (Mess1);;
+BD035;Pulsfrequenz (Gerät) / 60 s (Mess1);;
+BD14;Pulsqualität;2;'unregelmäßig'
+BD14;Pulsqualität;1;'regelmäßig'
+BD14;Pulsqualität;8;'nicht beurteilbar' (Missing)
+hgr_rh1_kraft;rechte Hand;888;'keine Messung, außerhalb des Messbereichs oder unplausibler Wert' (Missing)
+hgr_lh1_kraft;linke Hand;888;'keine Messung, außerhalb des Messbereichs oder unplausibler Wert' (Missing)
+hgr_rh2_kraft;rechte Hand;888;'keine Messung, außerhalb des Messbereichs oder unplausibler Wert' (Missing)
+hgr_lh2_kraft;linke Hand;888;'keine Messung, außerhalb des Messbereichs oder unplausibler Wert' (Missing)
+hgr_rh3_kraft;rechte Hand;888;'keine Messung, außerhalb des Messbereichs oder unplausibler Wert' (Missing)
+hgr_lh3_kraft;linke Hand;888;'keine Messung, außerhalb des Messbereichs oder unplausibler Wert' (Missing)
+spiro_mw_fvc;forcierte exspiratorische Vitalkapazität (FVC);;
+spiro_mw_fvc_p;FVC - Sollwert;;
+spiro_mw_fvc_ll;FVC - unt. Grenzwert;;
+spiro_mw_fev1;forciertes exspiratorisches Volumen in einer Sekunde (FEV1);;
+spiro_mw_fev1_p;FEV1 - Sollwert;;
+spiro_mw_fev1_ll;FEV1 - unt. Grenzwert;;
+spiro_mw_fev1_fvc;Verhältnis von FEV1 zu FVC (FEV1 / FVC);;
+spiro_mw_fev1_fvc_p;FEV1 / FVC - Sollwert;;
+spiro_mw_fev1_fvc_ll;FEV1 / FVC - unt. Grenzwert;;
+spiro_mw_pef;exspiratorischer Spitzenfluss (PEF);;
+spiro_mw_fef25;Fluss nach Exspiration von 25% der FVC (FEF25);;
+spiro_mw_fef50;Fluss nach Exspiration von 50% der FVC (FEF50);;
+spiro_mw_fef75;Fluss nach Exspiration von 75% der FVC (FEF75);;
+spiro_mw_fef25_75;Mittlerer Fluss zwischen 25\% und 75\% der FVC (FEF25-75);;
+spiro_mw_bev;Rückextrapoliertes Volumen (BEV);;
+spiro_mw_peft;Zeit bis zum Erreichen des PEF (PEFT);;
+spiro_mw_fet;Dauer der Ausatmung (FET);;
+spiro_mw_eotv;Volumenänderung in der letzten halben Sekunde der Exspiration (EOTV);;
+hp_vae_tnkrit1;Bein-/Armamputation;0;'nein'
+hp_vae_tnkrit1;Bein-/Armamputation;1;'ja, beidseitig'
+hp_vae_tnkrit1;Bein-/Armamputation;2;'ja, nur links'
+hp_vae_tnkrit1;Bein-/Armamputation;3;'ja, nur rechts'
+hp_vae_tnkrit4;Bein-/Armlähmung;0;'nein'
+hp_vae_tnkrit4;Bein-/Armlähmung;1;'ja, beidseitig'
+hp_vae_tnkrit4;Bein-/Armlähmung;2;'ja, nur links'
+hp_vae_tnkrit4;Bein-/Armlähmung;3;'ja, nur rechts'
+hp_vae_raucher;Sind Sie Raucher (Zigarette, Zigarre, Pfeife)?;1;'ja'
+hp_vae_raucher;Sind Sie Raucher (Zigarette, Zigarre, Pfeife)?;2;'nein'
+hp_vae_raucher;Sind Sie Raucher (Zigarette, Zigarre, Pfeife)?;9;'keine Angabe' (Missing)
+ws_lk_ruheschmerz;Ruheschmerz im linken Kniegelenk;1;'ja'
+ws_lk_ruheschmerz;Ruheschmerz im linken Kniegelenk;2;'nein'
+ws_lk_extension;Bewegungsausmaß: Streckung (linkes Kniegelenk);;
+ws_lk_flexion;Bewegungsausmaß: Beugung (linkes Kniegelenk);;
+ws_rk_extension;Bewegungsausmaß: Streckung (rechtes Kniegelenk);;
+ws_rk_flexion;Bewegungsausmaß: Beugung (rechtes Kniegelenk);;
+ws_lh_innenrotation;Bewegungsausmaß: Innenrotation (linkes Hüftgelenk);;
+ws_rh_innenrotation;Bewegungsausmaß: Innenrotation (rechtes Hüftgelenk);;
+sa_hba1c;hba1c: Messwert;900000;'Exakter Messwert'
+sa_hba1c;hba1c: Messwert;900001;'Messwert unterhalb der angeführten Bestimmungsgrenze'
+sa_hba1c;hba1c: Messwert;900002;'Messwert oberhalb der angeführten Bestimmungsgrenze'
+sa_hba1c;hba1c: Messwert;111111;'Probe zu alt' (Missing)
+sa_hba1c;hba1c: Messwert;222222;'Hämolytische Probe' (Missing)
+sa_hba1c;hba1c: Messwert;333333;'Lipämische Probe' (Missing)
+sa_hba1c;hba1c: Messwert;444444;'Technisch nicht möglich' (Missing)
+sa_hba1c;hba1c: Messwert;555555;'Planmäßig nicht bestimmt' (Missing)
+sa_hba1c;hba1c: Messwert;666666;'Durch Expertengruppe eliminiert' (Missing)
+sa_hba1c;hba1c: Messwert;999999;'Fehlender Wert, keine gültigen Angaben vorhanden' (Missing)
+sa_hba1c_info;hba1c: Zusatzinfo zum Messwert;900000;'Exakter Messwert'
+sa_hba1c_info;hba1c: Zusatzinfo zum Messwert;900001;'Messwert unterhalb der angeführten Bestimmungsgrenze'
+sa_hba1c_info;hba1c: Zusatzinfo zum Messwert;900002;'Messwert oberhalb der angeführten Bestimmungsgrenze'
+sa_hba1c_info;hba1c: Zusatzinfo zum Messwert;111111;'Probe zu alt' (Missing)
+sa_hba1c_info;hba1c: Zusatzinfo zum Messwert;222222;'Hämolytische Probe' (Missing)
+sa_hba1c_info;hba1c: Zusatzinfo zum Messwert;333333;'Lipämische Probe' (Missing)
+sa_hba1c_info;hba1c: Zusatzinfo zum Messwert;444444;'Technisch nicht möglich' (Missing)
+sa_hba1c_info;hba1c: Zusatzinfo zum Messwert;555555;'Planmäßig nicht bestimmt' (Missing)
+sa_hba1c_info;hba1c: Zusatzinfo zum Messwert;666666;'Durch Expertengruppe eliminiert' (Missing)
+sa_hba1c_info;hba1c: Zusatzinfo zum Messwert;999999;'Fehlender Wert, keine gültigen Angaben vorhanden' (Missing)
+sa_hba1c_mat;hba1c: Material;1;'EDTA-Plasma'
+sa_hba1c_mat;hba1c: Material;2;'Serum'
+sa_hba1c_mat;hba1c: Material;3;'Fluorid-Citrat-Plasma'
+sa_hba1c_mat;hba1c: Material;4;'Lithium-Heparin-Plasma'
+sa_hba1c_mat;hba1c: Material;5;'Urin'
+sa_hba1c_mat;hba1c: Material;99;'Fehlender Wert, keine gültigen Angaben vorhanden' (Missing)
+sa_hba1c_meth;hba1c: Methode;70;'Impedanz'
+sa_hba1c_meth;hba1c: Methode;80;'Fluoreszenz-Durchflusszytometrie'
+sa_hba1c_meth;hba1c: Methode;10;'HPLC'
+sa_hba1c_meth;hba1c: Methode;20;'Impedanz (ungenutzt)'
+sa_hba1c_meth;hba1c: Methode;30;'ISE - indirekte Potentiometrie'
+sa_hba1c_meth;hba1c: Methode;40;'Chemilumineszenz-Immunoassay'
+sa_hba1c_meth;hba1c: Methode;50;'Nephelometrie'
+sa_hba1c_meth;hba1c: Methode;60;'Photometrie'
+sa_hba1c_meth;hba1c: Methode;11;'Kapillarelektrophorese'
+sa_hba1c_meth;hba1c: Methode;12;'Immunturbidimetrie'
+sa_hba1c_meth;hba1c: Methode;41;'Immunoassay'
+sa_hba1c_meth;hba1c: Methode;61;'Photometrie (Bromcresolgrün)'
+sa_hba1c_meth;hba1c: Methode;62;'Photometrie (Bromcresolpurpur)'
+sa_hba1c_meth;hba1c: Methode;63;'Photometrie (Cyanmethämoglobin-Methode)'
+sa_hba1c_meth;hba1c: Methode;64;'Photometrie (Diazo-Methode)'
+sa_hba1c_meth;hba1c: Methode;65;'Photometrie (enzymatisch)'
+sa_hba1c_meth;hba1c: Methode;66;'Photometrie (Jaffé)'
+sa_hba1c_meth;hba1c: Methode;67;'Photometrie (SLS-Methode)'
+sa_hba1c_meth;hba1c: Methode;85;'Optisch/Laser-Streulicht'
+sa_hba1c_meth;hba1c: Methode;90;'Berechnung'
+sa_hba1c_meth;hba1c: Methode;91;'Berechnung (Absolutwerte basierend auf Fluoreszenz-Durchflusszytometrie)'
+sa_hba1c_meth;hba1c: Methode;92;'Berechnung (Absolutwerte basierend auf Impedanz und VCS-Technologie)'
+sa_hba1c_meth;hba1c: Methode;99;'Fehlender Wert, keine gültigen Angaben vorhanden' (Missing)
+sa_hba1c_plat;hba1c: Plattform;10;'Dimension Vista 1500 (Siemens Healthineers, Erlangen, Deutschland)'
+sa_hba1c_plat;hba1c: Plattform;20;'Tosoh G8 HPLC Analyzer (Tosoh Bioscience, Inc., San Francisco, USA)'
+sa_hba1c_plat;hba1c: Plattform;30;'Sysmex XN-9000 (Sysmex Corporation, Kobe, Japan)'
+sa_hba1c_plat;hba1c: Plattform;11;'Advia 2120i  (Siemens Healthineers, Erlangen, Deutschland)'
+sa_hba1c_plat;hba1c: Plattform;12;'Advia 2400 (Siemens Healthineers, Erlangen, Deutschland)'
+sa_hba1c_plat;hba1c: Plattform;21;'Tosoh G11 HPLC Analyzer  (Tosoh Bioscience, Inc., San Francisco, USA)'
+sa_hba1c_plat;hba1c: Plattform;31;'Sysmex XN-10 (Sysmex Corporation, Kobe, Japan)'
+sa_hba1c_plat;hba1c: Plattform;32;'Sysmex XE-2100 (Sysmex Corporation, Kobe, Japan)'
+sa_hba1c_plat;hba1c: Plattform;33;'Sysmex XE-5000 (Sysmex Corporation, Kobe, Japan)'
+sa_hba1c_plat;hba1c: Plattform;40;'AU5800 (Beckman Coulter, Brea, USA)'
+sa_hba1c_plat;hba1c: Plattform;41;'AU5822 (Beckman Coulter, Brea, USA)'
+sa_hba1c_plat;hba1c: Plattform;42;'AU680 (Beckman Coulter, Brea, USA)'
+sa_hba1c_plat;hba1c: Plattform;43;'DxC 800 (Beckman Coulter, Brea, USA)'
+sa_hba1c_plat;hba1c: Plattform;44;'UniCel DxH 800 (Beckman Coulter, Brea, USA)'
+sa_hba1c_plat;hba1c: Plattform;50;'Cobas 6000 (Roche Diagnostics, Rotkreuz, Schweiz)'
+sa_hba1c_plat;hba1c: Plattform;51;'Cobas 8000 (Roche Diagnostics, Rotkreuz, Schweiz)'
+sa_hba1c_plat;hba1c: Plattform;52;'Cobas 8100 (Roche Diagnostics, Rotkreuz, Schweiz)'
+sa_hba1c_plat;hba1c: Plattform;53;'Cobas c502 (Roche Diagnostics, Rotkreuz, Schweiz)'
+sa_hba1c_plat;hba1c: Plattform;54;'Cobas c701 (Roche Diagnostics, Rotkreuz, Schweiz)'
+sa_hba1c_plat;hba1c: Plattform;60;'Capillarys (Sebia, Lisses, Frankreich)'
+sa_hba1c_plat;hba1c: Plattform;70;'D-100 Hemoglobin Testing System (Bio-Rad Laboratories, Hercules, USA)'
+sa_hba1c_plat;hba1c: Plattform;71;'VariantTM II Hemoglobin Testing System (Bio-Rad Laboratories, Hercules, USA)'
+sa_hba1c_plat;hba1c: Plattform;72;'VariantTM II TURBO Hemoglobin Testing System (Bio-Rad Laboratories, Hercules, USA)'
+sa_hba1c_plat;hba1c: Plattform;99;'Fehlender Wert, keine gültigen Angaben vorhanden' (Missing)
+sa_hba1crel;hba1crel: Messwert;900000;'Exakter Messwert'
+sa_hba1crel;hba1crel: Messwert;900001;'Messwert unterhalb der angeführten Bestimmungsgrenze'
+sa_hba1crel;hba1crel: Messwert;900002;'Messwert oberhalb der angeführten Bestimmungsgrenze'
+sa_hba1crel;hba1crel: Messwert;111111;'Probe zu alt' (Missing)
+sa_hba1crel;hba1crel: Messwert;222222;'Hämolytische Probe' (Missing)
+sa_hba1crel;hba1crel: Messwert;333333;'Lipämische Probe' (Missing)
+sa_hba1crel;hba1crel: Messwert;444444;'Technisch nicht möglich' (Missing)
+sa_hba1crel;hba1crel: Messwert;555555;'Planmäßig nicht bestimmt' (Missing)
+sa_hba1crel;hba1crel: Messwert;666666;'Durch Expertengruppe eliminiert' (Missing)
+sa_hba1crel;hba1crel: Messwert;999999;'Fehlender Wert, keine gültigen Angaben vorhanden' (Missing)
+sa_hba1crel_info;hba1crel: Zusatzinfo zum Messwert;900000;'Exakter Messwert'
+sa_hba1crel_info;hba1crel: Zusatzinfo zum Messwert;900001;'Messwert unterhalb der angeführten Bestimmungsgrenze'
+sa_hba1crel_info;hba1crel: Zusatzinfo zum Messwert;900002;'Messwert oberhalb der angeführten Bestimmungsgrenze'
+sa_hba1crel_info;hba1crel: Zusatzinfo zum Messwert;111111;'Probe zu alt' (Missing)
+sa_hba1crel_info;hba1crel: Zusatzinfo zum Messwert;222222;'Hämolytische Probe' (Missing)
+sa_hba1crel_info;hba1crel: Zusatzinfo zum Messwert;333333;'Lipämische Probe' (Missing)
+sa_hba1crel_info;hba1crel: Zusatzinfo zum Messwert;444444;'Technisch nicht möglich' (Missing)
+sa_hba1crel_info;hba1crel: Zusatzinfo zum Messwert;555555;'Planmäßig nicht bestimmt' (Missing)
+sa_hba1crel_info;hba1crel: Zusatzinfo zum Messwert;666666;'Durch Expertengruppe eliminiert' (Missing)
+sa_hba1crel_info;hba1crel: Zusatzinfo zum Messwert;999999;'Fehlender Wert, keine gültigen Angaben vorhanden' (Missing)
+sa_hba1crel_mat;hba1crel: Material;1;'EDTA-Plasma'
+sa_hba1crel_mat;hba1crel: Material;2;'Serum'
+sa_hba1crel_mat;hba1crel: Material;3;'Fluorid-Citrat-Plasma'
+sa_hba1crel_mat;hba1crel: Material;4;'Lithium-Heparin-Plasma'
+sa_hba1crel_mat;hba1crel: Material;5;'Urin'
+sa_hba1crel_mat;hba1crel: Material;99;'Fehlender Wert, keine gültigen Angaben vorhanden' (Missing)
+sa_hba1crel_meth;hba1crel: Methode;70;'Impedanz'
+sa_hba1crel_meth;hba1crel: Methode;80;'Fluoreszenz-Durchflusszytometrie'
+sa_hba1crel_meth;hba1crel: Methode;10;'HPLC'
+sa_hba1crel_meth;hba1crel: Methode;20;'Impedanz (ungenutzt)'
+sa_hba1crel_meth;hba1crel: Methode;30;'ISE - indirekte Potentiometrie'
+sa_hba1crel_meth;hba1crel: Methode;40;'Chemilumineszenz-Immunoassay'
+sa_hba1crel_meth;hba1crel: Methode;50;'Nephelometrie'
+sa_hba1crel_meth;hba1crel: Methode;60;'Photometrie'
+sa_hba1crel_meth;hba1crel: Methode;11;'Kapillarelektrophorese'
+sa_hba1crel_meth;hba1crel: Methode;12;'Immunturbidimetrie'
+sa_hba1crel_meth;hba1crel: Methode;41;'Immunoassay'
+sa_hba1crel_meth;hba1crel: Methode;61;'Photometrie (Bromcresolgrün)'
+sa_hba1crel_meth;hba1crel: Methode;62;'Photometrie (Bromcresolpurpur)'
+sa_hba1crel_meth;hba1crel: Methode;63;'Photometrie (Cyanmethämoglobin-Methode)'
+sa_hba1crel_meth;hba1crel: Methode;64;'Photometrie (Diazo-Methode)'
+sa_hba1crel_meth;hba1crel: Methode;65;'Photometrie (enzymatisch)'
+sa_hba1crel_meth;hba1crel: Methode;66;'Photometrie (Jaffé)'
+sa_hba1crel_meth;hba1crel: Methode;67;'Photometrie (SLS-Methode)'
+sa_hba1crel_meth;hba1crel: Methode;85;'Optisch/Laser-Streulicht'
+sa_hba1crel_meth;hba1crel: Methode;90;'Berechnung'
+sa_hba1crel_meth;hba1crel: Methode;91;'Berechnung (Absolutwerte basierend auf Fluoreszenz-Durchflusszytometrie)'
+sa_hba1crel_meth;hba1crel: Methode;92;'Berechnung (Absolutwerte basierend auf Impedanz und VCS-Technologie)'
+sa_hba1crel_meth;hba1crel: Methode;99;'Fehlender Wert, keine gültigen Angaben vorhanden' (Missing)
+sa_hba1crel_plat;hba1crel: Plattform;10;'Dimension Vista 1500 (Siemens Healthineers, Erlangen, Deutschland)'
+sa_hba1crel_plat;hba1crel: Plattform;20;'Tosoh G8 HPLC Analyzer (Tosoh Bioscience, Inc., San Francisco, USA)'
+sa_hba1crel_plat;hba1crel: Plattform;30;'Sysmex XN-9000 (Sysmex Corporation, Kobe, Japan)'
+sa_hba1crel_plat;hba1crel: Plattform;11;'Advia 2120i  (Siemens Healthineers, Erlangen, Deutschland)'
+sa_hba1crel_plat;hba1crel: Plattform;12;'Advia 2400 (Siemens Healthineers, Erlangen, Deutschland)'
+sa_hba1crel_plat;hba1crel: Plattform;21;'Tosoh G11 HPLC Analyzer  (Tosoh Bioscience, Inc., San Francisco, USA)'
+sa_hba1crel_plat;hba1crel: Plattform;31;'Sysmex XN-10 (Sysmex Corporation, Kobe, Japan)'
+sa_hba1crel_plat;hba1crel: Plattform;32;'Sysmex XE-2100 (Sysmex Corporation, Kobe, Japan)'
+sa_hba1crel_plat;hba1crel: Plattform;33;'Sysmex XE-5000 (Sysmex Corporation, Kobe, Japan)'
+sa_hba1crel_plat;hba1crel: Plattform;40;'AU5800 (Beckman Coulter, Brea, USA)'
+sa_hba1crel_plat;hba1crel: Plattform;41;'AU5822 (Beckman Coulter, Brea, USA)'
+sa_hba1crel_plat;hba1crel: Plattform;42;'AU680 (Beckman Coulter, Brea, USA)'
+sa_hba1crel_plat;hba1crel: Plattform;43;'DxC 800 (Beckman Coulter, Brea, USA)'
+sa_hba1crel_plat;hba1crel: Plattform;44;'UniCel DxH 800 (Beckman Coulter, Brea, USA)'
+sa_hba1crel_plat;hba1crel: Plattform;50;'Cobas 6000 (Roche Diagnostics, Rotkreuz, Schweiz)'
+sa_hba1crel_plat;hba1crel: Plattform;51;'Cobas 8000 (Roche Diagnostics, Rotkreuz, Schweiz)'
+sa_hba1crel_plat;hba1crel: Plattform;52;'Cobas 8100 (Roche Diagnostics, Rotkreuz, Schweiz)'
+sa_hba1crel_plat;hba1crel: Plattform;53;'Cobas c502 (Roche Diagnostics, Rotkreuz, Schweiz)'
+sa_hba1crel_plat;hba1crel: Plattform;54;'Cobas c701 (Roche Diagnostics, Rotkreuz, Schweiz)'
+sa_hba1crel_plat;hba1crel: Plattform;60;'Capillarys (Sebia, Lisses, Frankreich)'
+sa_hba1crel_plat;hba1crel: Plattform;70;'D-100 Hemoglobin Testing System (Bio-Rad Laboratories, Hercules, USA)'
+sa_hba1crel_plat;hba1crel: Plattform;71;'VariantTM II Hemoglobin Testing System (Bio-Rad Laboratories, Hercules, USA)'
+sa_hba1crel_plat;hba1crel: Plattform;72;'VariantTM II TURBO Hemoglobin Testing System (Bio-Rad Laboratories, Hercules, USA)'
+sa_hba1crel_plat;hba1crel: Plattform;99;'Fehlender Wert, keine gültigen Angaben vorhanden' (Missing)
+sa_ogtt0;ogtt0: Messwert;900000;'Exakter Messwert'
+sa_ogtt0;ogtt0: Messwert;900001;'Messwert unterhalb der angeführten Bestimmungsgrenze'
+sa_ogtt0;ogtt0: Messwert;900002;'Messwert oberhalb der angeführten Bestimmungsgrenze'
+sa_ogtt0;ogtt0: Messwert;111111;'Probe zu alt' (Missing)
+sa_ogtt0;ogtt0: Messwert;222222;'Hämolytische Probe' (Missing)
+sa_ogtt0;ogtt0: Messwert;333333;'Lipämische Probe' (Missing)
+sa_ogtt0;ogtt0: Messwert;444444;'Technisch nicht möglich' (Missing)
+sa_ogtt0;ogtt0: Messwert;555555;'Planmäßig nicht bestimmt' (Missing)
+sa_ogtt0;ogtt0: Messwert;666666;'Durch Expertengruppe eliminiert' (Missing)
+sa_ogtt0;ogtt0: Messwert;999999;'Fehlender Wert, keine gültigen Angaben vorhanden' (Missing)
+sa_ogtt0_info;ogtt0: Zusatzinfo zum Messwert;900000;'Exakter Messwert'
+sa_ogtt0_info;ogtt0: Zusatzinfo zum Messwert;900001;'Messwert unterhalb der angeführten Bestimmungsgrenze'
+sa_ogtt0_info;ogtt0: Zusatzinfo zum Messwert;900002;'Messwert oberhalb der angeführten Bestimmungsgrenze'
+sa_ogtt0_info;ogtt0: Zusatzinfo zum Messwert;111111;'Probe zu alt' (Missing)
+sa_ogtt0_info;ogtt0: Zusatzinfo zum Messwert;222222;'Hämolytische Probe' (Missing)
+sa_ogtt0_info;ogtt0: Zusatzinfo zum Messwert;333333;'Lipämische Probe' (Missing)
+sa_ogtt0_info;ogtt0: Zusatzinfo zum Messwert;444444;'Technisch nicht möglich' (Missing)
+sa_ogtt0_info;ogtt0: Zusatzinfo zum Messwert;555555;'Planmäßig nicht bestimmt' (Missing)
+sa_ogtt0_info;ogtt0: Zusatzinfo zum Messwert;666666;'Durch Expertengruppe eliminiert' (Missing)
+sa_ogtt0_info;ogtt0: Zusatzinfo zum Messwert;999999;'Fehlender Wert, keine gültigen Angaben vorhanden' (Missing)
+sa_ogtt0_mat;ogtt0: Material;1;'EDTA-Plasma'
+sa_ogtt0_mat;ogtt0: Material;2;'Serum'
+sa_ogtt0_mat;ogtt0: Material;3;'Fluorid-Citrat-Plasma'
+sa_ogtt0_mat;ogtt0: Material;4;'Lithium-Heparin-Plasma'
+sa_ogtt0_mat;ogtt0: Material;5;'Urin'
+sa_ogtt0_mat;ogtt0: Material;99;'Fehlender Wert, keine gültigen Angaben vorhanden' (Missing)
+sa_ogtt0_meth;ogtt0: Methode;70;'Impedanz'
+sa_ogtt0_meth;ogtt0: Methode;80;'Fluoreszenz-Durchflusszytometrie'
+sa_ogtt0_meth;ogtt0: Methode;10;'HPLC'
+sa_ogtt0_meth;ogtt0: Methode;20;'Impedanz (ungenutzt)'
+sa_ogtt0_meth;ogtt0: Methode;30;'ISE - indirekte Potentiometrie'
+sa_ogtt0_meth;ogtt0: Methode;40;'Chemilumineszenz-Immunoassay'
+sa_ogtt0_meth;ogtt0: Methode;50;'Nephelometrie'
+sa_ogtt0_meth;ogtt0: Methode;60;'Photometrie'
+sa_ogtt0_meth;ogtt0: Methode;11;'Kapillarelektrophorese'
+sa_ogtt0_meth;ogtt0: Methode;12;'Immunturbidimetrie'
+sa_ogtt0_meth;ogtt0: Methode;41;'Immunoassay'
+sa_ogtt0_meth;ogtt0: Methode;61;'Photometrie (Bromcresolgrün)'
+sa_ogtt0_meth;ogtt0: Methode;62;'Photometrie (Bromcresolpurpur)'
+sa_ogtt0_meth;ogtt0: Methode;63;'Photometrie (Cyanmethämoglobin-Methode)'
+sa_ogtt0_meth;ogtt0: Methode;64;'Photometrie (Diazo-Methode)'
+sa_ogtt0_meth;ogtt0: Methode;65;'Photometrie (enzymatisch)'
+sa_ogtt0_meth;ogtt0: Methode;66;'Photometrie (Jaffé)'
+sa_ogtt0_meth;ogtt0: Methode;67;'Photometrie (SLS-Methode)'
+sa_ogtt0_meth;ogtt0: Methode;85;'Optisch/Laser-Streulicht'
+sa_ogtt0_meth;ogtt0: Methode;90;'Berechnung'
+sa_ogtt0_meth;ogtt0: Methode;91;'Berechnung (Absolutwerte basierend auf Fluoreszenz-Durchflusszytometrie)'
+sa_ogtt0_meth;ogtt0: Methode;92;'Berechnung (Absolutwerte basierend auf Impedanz und VCS-Technologie)'
+sa_ogtt0_meth;ogtt0: Methode;99;'Fehlender Wert, keine gültigen Angaben vorhanden' (Missing)
+sa_ogtt0_plat;ogtt0: Plattform;10;'Dimension Vista 1500 (Siemens Healthineers, Erlangen, Deutschland)'
+sa_ogtt0_plat;ogtt0: Plattform;20;'Tosoh G8 HPLC Analyzer (Tosoh Bioscience, Inc., San Francisco, USA)'
+sa_ogtt0_plat;ogtt0: Plattform;30;'Sysmex XN-9000 (Sysmex Corporation, Kobe, Japan)'
+sa_ogtt0_plat;ogtt0: Plattform;11;'Advia 2120i  (Siemens Healthineers, Erlangen, Deutschland)'
+sa_ogtt0_plat;ogtt0: Plattform;12;'Advia 2400 (Siemens Healthineers, Erlangen, Deutschland)'
+sa_ogtt0_plat;ogtt0: Plattform;21;'Tosoh G11 HPLC Analyzer  (Tosoh Bioscience, Inc., San Francisco, USA)'
+sa_ogtt0_plat;ogtt0: Plattform;31;'Sysmex XN-10 (Sysmex Corporation, Kobe, Japan)'
+sa_ogtt0_plat;ogtt0: Plattform;32;'Sysmex XE-2100 (Sysmex Corporation, Kobe, Japan)'
+sa_ogtt0_plat;ogtt0: Plattform;33;'Sysmex XE-5000 (Sysmex Corporation, Kobe, Japan)'
+sa_ogtt0_plat;ogtt0: Plattform;40;'AU5800 (Beckman Coulter, Brea, USA)'
+sa_ogtt0_plat;ogtt0: Plattform;41;'AU5822 (Beckman Coulter, Brea, USA)'
+sa_ogtt0_plat;ogtt0: Plattform;42;'AU680 (Beckman Coulter, Brea, USA)'
+sa_ogtt0_plat;ogtt0: Plattform;43;'DxC 800 (Beckman Coulter, Brea, USA)'
+sa_ogtt0_plat;ogtt0: Plattform;44;'UniCel DxH 800 (Beckman Coulter, Brea, USA)'
+sa_ogtt0_plat;ogtt0: Plattform;50;'Cobas 6000 (Roche Diagnostics, Rotkreuz, Schweiz)'
+sa_ogtt0_plat;ogtt0: Plattform;51;'Cobas 8000 (Roche Diagnostics, Rotkreuz, Schweiz)'
+sa_ogtt0_plat;ogtt0: Plattform;52;'Cobas 8100 (Roche Diagnostics, Rotkreuz, Schweiz)'
+sa_ogtt0_plat;ogtt0: Plattform;53;'Cobas c502 (Roche Diagnostics, Rotkreuz, Schweiz)'
+sa_ogtt0_plat;ogtt0: Plattform;54;'Cobas c701 (Roche Diagnostics, Rotkreuz, Schweiz)'
+sa_ogtt0_plat;ogtt0: Plattform;60;'Capillarys (Sebia, Lisses, Frankreich)'
+sa_ogtt0_plat;ogtt0: Plattform;70;'D-100 Hemoglobin Testing System (Bio-Rad Laboratories, Hercules, USA)'
+sa_ogtt0_plat;ogtt0: Plattform;71;'VariantTM II Hemoglobin Testing System (Bio-Rad Laboratories, Hercules, USA)'
+sa_ogtt0_plat;ogtt0: Plattform;72;'VariantTM II TURBO Hemoglobin Testing System (Bio-Rad Laboratories, Hercules, USA)'
+sa_ogtt0_plat;ogtt0: Plattform;99;'Fehlender Wert, keine gültigen Angaben vorhanden' (Missing)
+sa_ogtt2;ogtt2: Messwert;900000;'Exakter Messwert'
+sa_ogtt2;ogtt2: Messwert;900001;'Messwert unterhalb der angeführten Bestimmungsgrenze'
+sa_ogtt2;ogtt2: Messwert;900002;'Messwert oberhalb der angeführten Bestimmungsgrenze'
+sa_ogtt2;ogtt2: Messwert;111111;'Probe zu alt' (Missing)
+sa_ogtt2;ogtt2: Messwert;222222;'Hämolytische Probe' (Missing)
+sa_ogtt2;ogtt2: Messwert;333333;'Lipämische Probe' (Missing)
+sa_ogtt2;ogtt2: Messwert;444444;'Technisch nicht möglich' (Missing)
+sa_ogtt2;ogtt2: Messwert;555555;'Planmäßig nicht bestimmt' (Missing)
+sa_ogtt2;ogtt2: Messwert;666666;'Durch Expertengruppe eliminiert' (Missing)
+sa_ogtt2;ogtt2: Messwert;999999;'Fehlender Wert, keine gültigen Angaben vorhanden' (Missing)
+sa_ogtt2_info;ogtt2: Zusatzinfo zum Messwert;900000;'Exakter Messwert'
+sa_ogtt2_info;ogtt2: Zusatzinfo zum Messwert;900001;'Messwert unterhalb der angeführten Bestimmungsgrenze'
+sa_ogtt2_info;ogtt2: Zusatzinfo zum Messwert;900002;'Messwert oberhalb der angeführten Bestimmungsgrenze'
+sa_ogtt2_info;ogtt2: Zusatzinfo zum Messwert;111111;'Probe zu alt' (Missing)
+sa_ogtt2_info;ogtt2: Zusatzinfo zum Messwert;222222;'Hämolytische Probe' (Missing)
+sa_ogtt2_info;ogtt2: Zusatzinfo zum Messwert;333333;'Lipämische Probe' (Missing)
+sa_ogtt2_info;ogtt2: Zusatzinfo zum Messwert;444444;'Technisch nicht möglich' (Missing)
+sa_ogtt2_info;ogtt2: Zusatzinfo zum Messwert;555555;'Planmäßig nicht bestimmt' (Missing)
+sa_ogtt2_info;ogtt2: Zusatzinfo zum Messwert;666666;'Durch Expertengruppe eliminiert' (Missing)
+sa_ogtt2_info;ogtt2: Zusatzinfo zum Messwert;999999;'Fehlender Wert, keine gültigen Angaben vorhanden' (Missing)
+sa_ogtt2_mat;ogtt2: Material;1;'EDTA-Plasma'
+sa_ogtt2_mat;ogtt2: Material;2;'Serum'
+sa_ogtt2_mat;ogtt2: Material;3;'Fluorid-Citrat-Plasma'
+sa_ogtt2_mat;ogtt2: Material;4;'Lithium-Heparin-Plasma'
+sa_ogtt2_mat;ogtt2: Material;5;'Urin'
+sa_ogtt2_mat;ogtt2: Material;99;'Fehlender Wert, keine gültigen Angaben vorhanden' (Missing)
+sa_ogtt2_meth;ogtt2: Methode;70;'Impedanz'
+sa_ogtt2_meth;ogtt2: Methode;80;'Fluoreszenz-Durchflusszytometrie'
+sa_ogtt2_meth;ogtt2: Methode;10;'HPLC'
+sa_ogtt2_meth;ogtt2: Methode;20;'Impedanz (ungenutzt)'
+sa_ogtt2_meth;ogtt2: Methode;30;'ISE - indirekte Potentiometrie'
+sa_ogtt2_meth;ogtt2: Methode;40;'Chemilumineszenz-Immunoassay'
+sa_ogtt2_meth;ogtt2: Methode;50;'Nephelometrie'
+sa_ogtt2_meth;ogtt2: Methode;60;'Photometrie'
+sa_ogtt2_meth;ogtt2: Methode;11;'Kapillarelektrophorese'
+sa_ogtt2_meth;ogtt2: Methode;12;'Immunturbidimetrie'
+sa_ogtt2_meth;ogtt2: Methode;41;'Immunoassay'
+sa_ogtt2_meth;ogtt2: Methode;61;'Photometrie (Bromcresolgrün)'
+sa_ogtt2_meth;ogtt2: Methode;62;'Photometrie (Bromcresolpurpur)'
+sa_ogtt2_meth;ogtt2: Methode;63;'Photometrie (Cyanmethämoglobin-Methode)'
+sa_ogtt2_meth;ogtt2: Methode;64;'Photometrie (Diazo-Methode)'
+sa_ogtt2_meth;ogtt2: Methode;65;'Photometrie (enzymatisch)'
+sa_ogtt2_meth;ogtt2: Methode;66;'Photometrie (Jaffé)'
+sa_ogtt2_meth;ogtt2: Methode;67;'Photometrie (SLS-Methode)'
+sa_ogtt2_meth;ogtt2: Methode;85;'Optisch/Laser-Streulicht'
+sa_ogtt2_meth;ogtt2: Methode;90;'Berechnung'
+sa_ogtt2_meth;ogtt2: Methode;91;'Berechnung (Absolutwerte basierend auf Fluoreszenz-Durchflusszytometrie)'
+sa_ogtt2_meth;ogtt2: Methode;92;'Berechnung (Absolutwerte basierend auf Impedanz und VCS-Technologie)'
+sa_ogtt2_meth;ogtt2: Methode;99;'Fehlender Wert, keine gültigen Angaben vorhanden' (Missing)
+sa_ogtt2_plat;ogtt2: Plattform;10;'Dimension Vista 1500 (Siemens Healthineers, Erlangen, Deutschland)'
+sa_ogtt2_plat;ogtt2: Plattform;20;'Tosoh G8 HPLC Analyzer (Tosoh Bioscience, Inc., San Francisco, USA)'
+sa_ogtt2_plat;ogtt2: Plattform;30;'Sysmex XN-9000 (Sysmex Corporation, Kobe, Japan)'
+sa_ogtt2_plat;ogtt2: Plattform;11;'Advia 2120i  (Siemens Healthineers, Erlangen, Deutschland)'
+sa_ogtt2_plat;ogtt2: Plattform;12;'Advia 2400 (Siemens Healthineers, Erlangen, Deutschland)'
+sa_ogtt2_plat;ogtt2: Plattform;21;'Tosoh G11 HPLC Analyzer  (Tosoh Bioscience, Inc., San Francisco, USA)'
+sa_ogtt2_plat;ogtt2: Plattform;31;'Sysmex XN-10 (Sysmex Corporation, Kobe, Japan)'
+sa_ogtt2_plat;ogtt2: Plattform;32;'Sysmex XE-2100 (Sysmex Corporation, Kobe, Japan)'
+sa_ogtt2_plat;ogtt2: Plattform;33;'Sysmex XE-5000 (Sysmex Corporation, Kobe, Japan)'
+sa_ogtt2_plat;ogtt2: Plattform;40;'AU5800 (Beckman Coulter, Brea, USA)'
+sa_ogtt2_plat;ogtt2: Plattform;41;'AU5822 (Beckman Coulter, Brea, USA)'
+sa_ogtt2_plat;ogtt2: Plattform;42;'AU680 (Beckman Coulter, Brea, USA)'
+sa_ogtt2_plat;ogtt2: Plattform;43;'DxC 800 (Beckman Coulter, Brea, USA)'
+sa_ogtt2_plat;ogtt2: Plattform;44;'UniCel DxH 800 (Beckman Coulter, Brea, USA)'
+sa_ogtt2_plat;ogtt2: Plattform;50;'Cobas 6000 (Roche Diagnostics, Rotkreuz, Schweiz)'
+sa_ogtt2_plat;ogtt2: Plattform;51;'Cobas 8000 (Roche Diagnostics, Rotkreuz, Schweiz)'
+sa_ogtt2_plat;ogtt2: Plattform;52;'Cobas 8100 (Roche Diagnostics, Rotkreuz, Schweiz)'
+sa_ogtt2_plat;ogtt2: Plattform;53;'Cobas c502 (Roche Diagnostics, Rotkreuz, Schweiz)'
+sa_ogtt2_plat;ogtt2: Plattform;54;'Cobas c701 (Roche Diagnostics, Rotkreuz, Schweiz)'
+sa_ogtt2_plat;ogtt2: Plattform;60;'Capillarys (Sebia, Lisses, Frankreich)'
+sa_ogtt2_plat;ogtt2: Plattform;70;'D-100 Hemoglobin Testing System (Bio-Rad Laboratories, Hercules, USA)'
+sa_ogtt2_plat;ogtt2: Plattform;71;'VariantTM II Hemoglobin Testing System (Bio-Rad Laboratories, Hercules, USA)'
+sa_ogtt2_plat;ogtt2: Plattform;72;'VariantTM II TURBO Hemoglobin Testing System (Bio-Rad Laboratories, Hercules, USA)'
+sa_ogtt2_plat;ogtt2: Plattform;99;'Fehlender Wert, keine gültigen Angaben vorhanden' (Missing)
+ogtt_o2;Wurde Ihnen jemals von einem Arzt mitgeteilt, dass Sie einen Diabetes mellitus haben?;1;'ja'
+ogtt_o2;Wurde Ihnen jemals von einem Arzt mitgeteilt, dass Sie einen Diabetes mellitus haben?;2;'nein'
+ogtt_o2;Wurde Ihnen jemals von einem Arzt mitgeteilt, dass Sie einen Diabetes mellitus haben?;8;'unbekannt' (Missing)
+ogtt_o2;Wurde Ihnen jemals von einem Arzt mitgeteilt, dass Sie einen Diabetes mellitus haben?;9;'Angabe fehlt' (Missing)
+ogtt_o3;Werden Sie derzeit mit Insulin oder blutzuckersenkenden Tabletten behandelt?;1;'ja'
+ogtt_o3;Werden Sie derzeit mit Insulin oder blutzuckersenkenden Tabletten behandelt?;2;'nein'
+ogtt_o3;Werden Sie derzeit mit Insulin oder blutzuckersenkenden Tabletten behandelt?;8;'unbekannt' (Missing)
+ogtt_o3;Werden Sie derzeit mit Insulin oder blutzuckersenkenden Tabletten behandelt?;9;'Angabe fehlt' (Missing)
+ergo_pwc130;PWC130;;
+BD04;Systole (Mess2);;
+BD05;Diastole (Mess2);;
+basis_age;Alter am Untersuchungsdatum;;
+basis_sex;Geschlecht;1;'Männlich'
+basis_sex;Geschlecht;2;'Weiblich'
+basis_uort;Untersuchungsort;11;'Augsburg'
+basis_uort;Untersuchungsort;12;'Regensburg'
+basis_uort;Untersuchungsort;21;'Mannheim'
+basis_uort;Untersuchungsort;22;'Freiburg'
+basis_uort;Untersuchungsort;23;'Saarbrücken'
+basis_uort;Untersuchungsort;31;'Essen'
+basis_uort;Untersuchungsort;32;'Münster'
+basis_uort;Untersuchungsort;33;'Düsseldorf'
+basis_uort;Untersuchungsort;41;'Halle'
+basis_uort;Untersuchungsort;42;'Leipzig'
+basis_uort;Untersuchungsort;51;'Berlin Nord'
+basis_uort;Untersuchungsort;52;'Berlin Mitte'
+basis_uort;Untersuchungsort;53;'Berlin Süd'
+basis_uort;Untersuchungsort;61;'Hannover'
+basis_uort;Untersuchungsort;62;'Hamburg'
+basis_uort;Untersuchungsort;63;'Bremen'
+basis_uort;Untersuchungsort;71;'Kiel'
+basis_uort;Untersuchungsort;81;'Neubrandenburg'
+basis_uort;Untersuchungsort;811;'Neustrelitz'
+basis_uort;Untersuchungsort;812;'Waren (Müritz)'
+basis_uort;Untersuchungsort;813;'Demmin'
+basis_uort;Untersuchungsort;0;'nicht zugeordnet' (Missing)
+tgr_nako_df100k;DF100k-Teilnehmer;1;'Teilnehmer gehört der Gruppe an'
+tgr_nako_df100k;DF100k-Teilnehmer;2;'Teilnehmer gehört der Gruppe nicht an'
