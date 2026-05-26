@@ -1,4 +1,4 @@
-Currently working on adding Feature importance methods to explain the model and compare various feature ranking methods to find the risk factors for a disease.
+Evaluated and compared various feature ranking methods in the context of identifying diabetes risk predictors across two distinct tabular datasets. The findings contribute to model interpretability and to enhance trust in AI-driven disease risk prediction, supporting its adoption in clinical settings.
 Here are some snapshots from the application:
 <br>
 ![Screenshot 1](Visualisation1.png)
